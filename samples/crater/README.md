@@ -1,5 +1,6 @@
-# Detection and Segmantation of Martian Craters with MaskRCNN architecture.
+# Mars Crater Detection and Segmantation with MaskRCNN
 
+![](https://github.com/mymultiverse/Mask_RCNN/blob/master/samples/crater/gitex.PNG)
 
 1. [Data Preparation](https://github.com/mymultiverse/Mask_RCNN/edit/master/samples/crater#Data-Collection-and-Training-Validation-data-preparation)
 
