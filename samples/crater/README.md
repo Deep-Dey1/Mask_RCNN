@@ -8,9 +8,13 @@ Detection of craters on planetary surface is very crucial for the better underst
 
 2. [Data Inspection](https://github.com/mymultiverse/Mask_RCNN/blob/master/samples/crater/inspect_crater_data.ipynb)
 
-3. [Training]()
+3. [Training](https://github.com/mymultiverse/Mask_RCNN/blob/master/samples/crater/train.ipynb)
 
-4. [Testing]()
+4. [Testing](https://github.com/mymultiverse/Mask_RCNN/blob/master/samples/crater/inspect_crater_model.ipynb)
+
+With splash.py the trained model tested on video
+
+[![](https://img.youtube.com/vi/JdmykAEQing/0.jpg)](https://www.youtube.com/watch?v=JdmykAEQing&feature=youtu.be)
 
 #### Data Collection and Training-Validation data preparation 
 
@@ -33,7 +37,7 @@ Dataset directory looks like:-
     ├── imgq.jpg
     └── via_region_data.json
 ```
-
+train and val folder should be inside datasets directory(which is place at root directory)
 Dataset Sources:
 
 [ASU](https://jmars.mars.asu.edu/)
