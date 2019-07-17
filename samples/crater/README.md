@@ -2,7 +2,7 @@
 
 ![](https://github.com/mymultiverse/Mask_RCNN/blob/master/samples/crater/gitex.PNG)
 
-Detection of craters on planetary surface is very crucial for the better understanding of planet topography. It is also important for the selection of landing sites of various lander mission, path planning for rover missions. This project is about application of deep learning method for detection and semantic segmentation of craters in an image. Model trained using tranfer learning on pretrained MaskRCNN model. Overall project can be devided into four parts as follow:-    
+Detection of craters on planetary surface is very crucial for the better understanding of planet topography. It is also important for the selection of landing sites of various lander mission, path planning for rover missions. This project is about application of deep learning method for detection and semantic segmentation of craters in an image. Model trained using transfer learning on pretrained MaskRCNN model. Overall project can be devided into four parts as follow:-    
 
 1. [Data Preparation](https://github.com/mymultiverse/Mask_RCNN/edit/master/samples/crater#Data-Collection-and-Training-Validation-data-preparation)
 
