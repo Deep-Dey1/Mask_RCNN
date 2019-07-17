@@ -40,7 +40,8 @@ Dataset directory looks like:-
 train and val folder should be inside datasets directory(which is place at root directory)
 Dataset Sources:
 
-[ASU](https://jmars.mars.asu.edu/)
-
-[USGS](https://webgis2.wr.usgs.gov/Mars_Global_GIS/)
+1. [High Resolution Imaging Science Experiment](https://www.uahirise.org/)
+2. [Mars Science](https://mars.nasa.gov/multimedia/images/)
+3. [ASU](https://jmars.mars.asu.edu/)
+4. [USGS](https://webgis2.wr.usgs.gov/Mars_Global_GIS/)
 
