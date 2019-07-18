@@ -19,9 +19,11 @@ Detection of craters on planetary surface is very crucial for the better underst
 
 4. [Testing](https://github.com/mymultiverse/Mask_RCNN/blob/master/samples/crater/inspect_crater_model.ipynb)
 
-With splash.py the trained model tested on video
+With splash.py the trained model tested on video although it was only trained with Mars data, learned model able to detect crates on the lunar surface as well.
 
-[![](https://img.youtube.com/vi/JdmykAEQing/0.jpg)](https://www.youtube.com/watch?v=JdmykAEQing&feature=youtu.be)
+Mars                       |  Moon
+:-------------------------:|:-------------------------:
+[![](https://img.youtube.com/vi/JdmykAEQing/0.jpg)](https://youtu.be/JdmykAEQing) |                                           [![](https://img.youtube.com/vi/FRbNQiYLvgo/0.jpg)](https://youtu.be/FRbNQiYLvgo)
 
 #### Data Collection and Training-Validation data preparation 
 
