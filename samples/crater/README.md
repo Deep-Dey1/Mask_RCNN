@@ -1,4 +1,4 @@
-# Mars Crater Detection and Segmantation with MaskRCNN
+# Mars Crater Detection and Segmentation with MaskRCNN
 
 ![](https://github.com/mymultiverse/Mask_RCNN/blob/master/samples/crater/gitex.PNG)
 
