@@ -47,6 +47,9 @@ Dataset directory looks like:-
     └── via_region_data.json
 ```
 train and val folder should be inside datasets directory(which is place at root directory)
+
+Trained model mask_rcnn_crater_new.h5 [dropbox](https://www.dropbox.com/s/49b8qwinjb71doa/mask_rcnn_crater_new.h5?dl=0)
+
 Dataset Sources:
 
 1. [High Resolution Imaging Science Experiment](https://www.uahirise.org/)
